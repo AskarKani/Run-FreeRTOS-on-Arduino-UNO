@@ -48,3 +48,6 @@ void TaskSerialPrint(void *pvParameters)  // This is a task.
 ```
 ## Step 3: Flash the code into the Arduino
 After flashing the code, you can see that the LED is blinking and in parallel the logs are print in the Serial Monitor
+
+## References
+[https://create.arduino.cc/projecthub/feilipu/using-freertos-multi-tasking-in-arduino-ebc3cc](https://create.arduino.cc/projecthub/feilipu/using-freertos-multi-tasking-in-arduino-ebc3cc)
